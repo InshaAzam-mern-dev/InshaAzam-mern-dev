@@ -1,3 +1,5 @@
+# Hi! i am Insha Azam
+**BS Computer Science Graduate | Aspiring MERN Stack Developer | Entry-Level Software Engineer**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/insha-azam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inshaazam6245@gmail.com) 
